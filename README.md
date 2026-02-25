@@ -1,4 +1,8 @@
-Hi, I’m **pravin2j** 👨‍💻  
-Full Stack Developer | Java, Spring Boot, React  
-B.Sc. Computer Science (2023)
-MCA Management (2027)
+I build web apps with Java + Spring Boot / Python + Django and ReactJS.
+
+**Backend:** Java, Spring Boot, Python, Django, REST APIs  
+**Frontend:** HTML, CSS, JavaScript, React, Vite  
+**Database:** MySQL, MongoDB
+**Tools:** Git, Linux, Postman
+
+📫 Email: pravinj00@outlook.com  
